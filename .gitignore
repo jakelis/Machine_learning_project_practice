@@ -6,3 +6,6 @@ __pycache__/
 
 #ignore Jupyter checkpoints
 .ipynb_checkpoints/
+
+#ignore models 
+models/
