@@ -1,6 +1,6 @@
 # Machine Learning Project Practice 
 
-This project follows the structure and contents from Chapter 2 of the book *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* by Aurélien Géron
+This project follows the structure and contents from Chapter 2 of the book *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow  2nd Ed* by Aurélien Géron
 
 # Learning Points from this Chapter 🌟
 
